@@ -1,10 +1,10 @@
 # [level 2] 택배상자 - 131704 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131704) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131704?language=javascript) 
 
 ### 성능 요약
 
-메모리: 53.1 MB, 시간: 414.64 ms
+메모리: 75 MB, 시간: 42.22 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 02월 04일 12:36:03
+2025년 02월 04일 12:36:49
 
 ### 문제 설명
 
