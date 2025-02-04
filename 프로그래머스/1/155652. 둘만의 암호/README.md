@@ -1,10 +1,10 @@
 # [level 1] 둘만의 암호 - 155652 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/155652) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/155652?language=javascript) 
 
 ### 성능 요약
 
-메모리: 60.5 MB, 시간: 14.14 ms
+메모리: 33.5 MB, 시간: 0.32 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 02월 04일 12:17:29
+2025년 02월 04일 12:17:38
 
 ### 문제 설명
 
